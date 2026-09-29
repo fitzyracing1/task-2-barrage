@@ -1,0 +1,37 @@
+# task-2
+
+> Early HTML shelf named task-2. Sister of task.
+
+## Purpose
+Give a plain-language door to fitzyracing1/task-2.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader to task for the first shelf.
+
+## Key ideas
+- task-2 (second snapshot)
+- HTML source
+- Sister of task
+
+## The actual code
+```
+# source: fitzyracing1/task-2
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/task-2”
+
+## Decisions the program makes
+- If a reader wants the first shelf → task
+
+## What a person would notice
+A named wrap on task snapshot 2.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source, or task.
